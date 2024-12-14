@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>user_data.json</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #a9b7c6;}
+.s1 { color: #6a8759;}
+.s2 { color: #cc7832;}
+</style>
+</head>
+<body bgcolor="#2b2b2b">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+user_data.json</font>
+</center></td></tr></table>
+<pre><span class="s0">{</span>
+    <span class="s1">&quot;kkpanjwani777@gmail.com&quot;</span><span class="s2">: </span><span class="s0">{</span>
+        <span class="s1">&quot;name&quot;</span><span class="s2">: </span><span class="s1">&quot;kinjal panjwani&quot;</span><span class="s2">,</span>
+        <span class="s1">&quot;phone&quot;</span><span class="s2">: </span><span class="s1">&quot;03303121110&quot;</span><span class="s2">,</span>
+        <span class="s1">&quot;search_history&quot;</span><span class="s2">: </span><span class="s0">[</span>
+            <span class="s1">&quot;camera&quot;</span><span class="s2">,</span>
+            <span class="s1">&quot;casio calculator&quot;</span><span class="s2">,</span>
+            <span class="s1">&quot;give me link of frother &quot;</span><span class="s2">,</span>
+            <span class="s1">&quot;give me link of ikea mother frother &quot;</span><span class="s2">,</span>
+            <span class="s1">&quot;give me everything of charging cable&quot;</span><span class="s2">,</span>
+            <span class="s1">&quot;give me everything of charging cabl&quot;</span><span class="s2">,</span>
+            <span class="s1">&quot;give me link of camera&quot;</span><span class="s2">,</span>
+            <span class="s1">&quot;give me ratings of ikea product&quot;</span><span class="s2">,</span>
+            <span class="s1">&quot;give me price of ikea mother frother&quot;</span><span class="s2">,</span>
+            <span class="s1">&quot;give me everything of camera&quot;</span>
+        <span class="s0">]</span>
+    <span class="s0">}</span><span class="s2">,</span>
+    <span class="s1">&quot;kkpanjawani777@gmail.com&quot;</span><span class="s2">: </span><span class="s0">{</span>
+        <span class="s1">&quot;name&quot;</span><span class="s2">: </span><span class="s1">&quot;kinjal panjwani&quot;</span><span class="s2">,</span>
+        <span class="s1">&quot;phone&quot;</span><span class="s2">: </span><span class="s1">&quot;763814581677&quot;</span><span class="s2">,</span>
+        <span class="s1">&quot;search_history&quot;</span><span class="s2">: </span><span class="s0">[</span>
+            <span class="s1">&quot;casio calculator&quot;</span><span class="s2">,</span>
+            <span class="s1">&quot;best reviewed product&quot;</span><span class="s2">,</span>
+            <span class="s1">&quot;recommend which product not to buy&quot;</span>
+        <span class="s0">]</span>
+    <span class="s0">}</span>
+<span class="s0">}</span></pre>
+</body>
+</html>
