@@ -284,7 +284,7 @@ else:
 <span class="s3"># Page Configuration (MUST be first Streamlit command)</span>
 <span class="s1">st.set_page_config(</span>
     <span class="s1">page_title=</span><span class="s4">&quot;Amazon GPT Login&quot;</span><span class="s2">,</span>
-    <span class="s1">page_icon=</span><span class="s4">&quot;🛒&quot;</span><span class="s2">,</span>
+    <span class="s1">page_icon=</span><span class="s4">&quot;&quot;</span><span class="s2">,</span>
     <span class="s1">layout=</span><span class="s4">&quot;wide&quot;</span><span class="s2">,</span>
 <span class="s1">)</span>
 
