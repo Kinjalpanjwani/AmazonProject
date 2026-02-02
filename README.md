@@ -1,3 +1,23 @@
+## Project Images
+
+### Application Interface
+![User Interface](assets/ui.png)
+
+### NLP Models Used
+
+**BART-based Summarization**
+![BART Model](assets/bart.png)
+
+**RoBERTa-based Sentiment Analysis**
+![RoBERTa Model](assets/roberta.png)
+
+**Distilbert-based Overall Review**
+![Project Preview](assets/preview.png)
+
+### Model & Pipeline Overview
+![System Pipeline](assets/link.png)
+
+
 # Amazon GPT
 
 Amazon GPT is a domain-specific AI assistant designed to support **product research and decision-making** on Amazon.  
